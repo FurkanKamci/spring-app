@@ -1,4 +1,4 @@
 
-Clean and Build Jar : mvn clean install 
+Clean and Build Jar --> mvn clean install 
 
-Start jar file : java -jar .\*.jar
+Start jar file --> java -jar .\*.jar
